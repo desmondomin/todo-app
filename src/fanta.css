@@ -19,13 +19,13 @@
     display: none;
 }
 :root {
-    --background-primary: white;
+    --background-primary: rgb(233, 227, 227);
     --background-secondary: '';
     --background-tertiary: #dbeafe;
     --background-accent: '';
     --background-compliment: '';
     --background-gradient: '';
-    --background-muted: #f8fafc;
+    --background-muted: #edf0f3;
 
     --color-primary: #030615;
     --color-secondary: '';
